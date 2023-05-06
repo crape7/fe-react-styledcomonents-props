@@ -63,8 +63,8 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 <img width="579" alt="image" src="https://user-images.githubusercontent.com/100525337/235416326-bb6c6c71-1e17-4272-a78c-761d373cf0b9.png">   
 
 # 과제
-![task1](./image/멋사0503과제1.png)
-![task2](./image/멋사0503과제2.png)
-![task3](./image/멋사0503과제3.png)
-![task4](./image/멋사0503과제4.png)
+![task1](/image/멋사0503과제1.png)   
+![task2](/image/멋사0503과제2.png)   
+![task3](/image/멋사0503과제3.png)   
+![task4](/image/멋사0503과제4.png)
 
